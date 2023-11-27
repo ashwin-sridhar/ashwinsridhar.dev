@@ -18,7 +18,7 @@ export const ProjectList = [
     tech_stack: ["Android", "Arduino"],
     github_url: "",
     demo_url: "https://www.facebook.com/taleswithtails269/videos/2828217614076962/",
-  },
+  }
 
 ];
 
