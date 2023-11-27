@@ -7,7 +7,7 @@ const Header = ({ toggle }) => {
       <Nav>
         <Logo to="/">
           <img
-            src="/logo.png"
+            src="/logo_as.png"
             alt="logo"
           />
         </Logo>
@@ -25,9 +25,10 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://linkedin.com/in/pedro-sales-muniz"
+            href="/Ashwin Sridhar SPR 2023NOV.pdf"
             target="_blank"
             rel="noopener noreferrer"
+            download={true}
           >
             Resume
           </a>
